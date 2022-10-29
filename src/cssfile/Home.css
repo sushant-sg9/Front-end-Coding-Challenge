@@ -1,0 +1,22 @@
+.home {
+	background-color: aqua;
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;}
+	.loading {
+		margin: 45%;
+	}
+	.head{
+		margin-top: 100px;
+	}
+	.content{
+		background-color: skyblue;
+		padding: 100px;
+		width: 100%;
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+	}
